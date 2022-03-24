@@ -368,13 +368,6 @@
   "scale": [1, 1, 1],
   "type": "landmark"
 }, {
-  "name": "Bristol taxiway",
-  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/eggd_taxiway2.glb",
-  "position": [51.38498033797698, -2.7194626067148984, 180],
-  "rotation": [90, 0, 0],
-  "scale": [0.6, 0.6, 0.6],
-  "type": "airport"
-}, {
   "name": "statue of liberty",
   "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/statue_of_liberty2.glb",
    "credit": "From: byGravity Jack (https://sketchfab.com/3d-models/statue-of-liberty-84094e8d5e724b5c882cf576ca12e44e)",
