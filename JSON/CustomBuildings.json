@@ -246,6 +246,13 @@
   "scale": [0.65, 0.65, 0.65],
   "type": "airport"
 },{
+  "name": "BOS (boston logan)",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/bos.glb",
+  "position": [42.36577952087278, -71.01844298004642, 0],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "airport"
+},{
   "name": "hollywood sign",
   "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/hollywood_sign.glb",
   "position": [34.13475904045216, -118.32040314329417, 170],
