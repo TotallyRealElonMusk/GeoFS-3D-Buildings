@@ -1,0 +1,385 @@
+[ {
+  "name": "vigo airport",
+  "url": "https://120051779-870469058910829396.preview.editmysite.com/uploads/1/2/0/0/120051779/vigo_test_short_airport.glb",
+  "position": [42.22507, -8.63279, 255.81333676013287],
+  "rotation": [11, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "airport"
+},{
+  "name": "jfk terminals",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/jfk.glb",
+  "position": [40.642468, -73.781306, 0],
+  "rotation": [0, 0, 0],
+  "scale": [1.3, 1.3, 1.3],
+  "type": "airport"
+},{
+  "name": "ewr terminals",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/ewr.glb",
+  "position": [40.692581926987394, -74.18274783202409, 0],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "airport"
+},{
+  "name": "lga terminals",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/lga.glb",
+  "position": [40.77335297734778, -73.87365572536402, 0],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "airport"
+},{
+  "name": "concorde",
+  "url": "../../../../models/aircraft/premium/concorde/concorde.gltf",
+  "position": [40.765665, -74.001778, 4],
+  "rotation": [110, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "addon"
+},{
+  "name": "OWTC",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/onewtc.gltf",
+  "position": [40.713003, -74.013184, 30],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
+},{
+  "name": "NYC downtown",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/downtown0.glb",
+  "position": [40.713003, -74.013184, 0],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "city"
+}, {
+  "name": "jfk atc",
+  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/jfkatc.glb",
+  "position": [40.642468, -73.781306, 0],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "atc"
+}, {
+  "name": "LAX atc",
+  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/genericatc.glb",
+  "position": [33.944006649127665, -118.40384478693352, 0],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "atc"
+},{
+  "name": "LHR atc",
+  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/genericatc.glb",
+  "position": [51.47178486314496, -0.4654623912115562, 0],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "atc"
+}, {
+  "name": "CDG atc",
+  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/genericatc.glb",
+  "position": [49.003465520509174, 2.573483109426901, 0],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "atc"
+}, {
+  "name": "SFO atc",
+  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/genericatc.glb",
+  "position": [37.615913114472754, -122.3838715058867, 0],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "atc"
+}, {
+  "name": "MIA atc",
+  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/genericatc.glb",
+  "position": [25.797520104826276, -80.28080030099528, 0],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "atc"
+}, {
+  "name": "Gateway Arch",
+  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/gateway.glb",
+  "position": [38.62467160719759, -90.1849294458611, 0],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
+}, {
+  "name": "opera house",
+  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/operahouse.glb",
+  "position": [-33.85709212131164, 151.2151553844974, 0],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
+},{
+  "name": "Shard",
+  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/shard_2.glb",
+  "position": [51.50439997167663, -0.0865319044008741, 60],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
+}, {
+  "name": "sears",
+  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/sears_towers.glb",
+  "position": [41.87888906449908, -87.63587381204945, 100],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
+}, {
+  "name": "space needle",
+  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/spaceneedle.glb",
+  "position": [47.62054867355818, -122.34929125332603, 0],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
+}, {
+  "name": "gherkin",
+  "url": "https://140444485-548498493367222598.preview.editmysite.com/uploads/1/4/0/4/140444485/gherkin_2__1_.glb",
+  "position": [51.514478444303336, -0.0803259937534029, 60],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
+}, {
+  "name": "pisa",
+  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/leaning_tower_of_pisa_2.glb",
+  "position": [43.72301853292317, 10.39663055392561, 30],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
+}, {
+  "name": "oriental pearl",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/oriental.glb",
+  "position": [31.239807616889184, 121.49967029308964, 0],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
+}, {
+  "name": "big ben",
+  "credit": "From:ManySince910 - find at:https://sketchfab.com/3d-models/clock-tower-big-ben-9a1c691fac774bcca4e2ba565c4c9d9b",
+  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/bigben.glb",
+  "position": [51.50072163386705, -0.12460950809854282, 10],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
+},{
+  "name": "philly",
+  "url": "https://120051779-870469058910829396.preview.editmysite.com/uploads/1/2/0/0/120051779/philly_test.glb",
+  "position": [39.87574, -75.24477,2],
+  "rotation": [90, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "airport"
+},{
+  "name": "lc39a",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/lc39a.glb",
+  "position": [28.608269754150946, -80.60452986457211, 0],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
+},{
+  "name": "lc36",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/lc36.glb",
+  "position": [28.471663212252533, -80.53830767625448, 2],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
+},{
+  "name": "Fairbanks Airport",
+  "url": "https://120051779-870469058910829396.preview.editmysite.com/uploads/1/2/0/0/120051779/fairbanks_terminal_rotation.glb",
+  "position": [64.81758, -147.86789, 132.8094065404741],
+  "rotation": [65, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "airport"
+},{
+  "name": "Bristol Airport",
+  "url": "https://120051779-870469058910829396.preview.editmysite.com/uploads/1/2/0/0/120051779/bristol_appt.glb",
+  "position": [51.38536, -2.71373, 173.07092733112788],
+  "rotation": [50, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "airport"
+},{
+  "name": "Eiffel tower",
+  "credit": "by: printable_models - find at: https://free3d.com/3d-model/-eiffel-tower-v1--470573.html",
+  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/eiffel_twoer_type_2.glb",
+  "position": [48.858093, 2.294694, 50],
+  "rotation": [45, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
+},{
+  "name": "Gibraltar",
+  "url": "https://120051779-870469058910829396.preview.editmysite.com/uploads/1/2/0/0/120051779/gibraltar_city.glb",
+  "position": [36.15217, -5.34864, 0.3722777072015841],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "airport"
+},{
+  "name": "Heathrow and surroundings",
+  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/heathrow2.glb",
+  "position": [51.467538, -0.456035, 20],
+  "rotation": [90, 0, 0],
+  "scale": [0.63, 0.63, 0.63],
+  "type": "airport"
+},{
+  "name": "AUS parliament",
+  "url": "https://140444485-548498493367222598.preview.editmysite.com/uploads/1/4/0/4/140444485/parliamenthouse.glb",
+  "position": [-35.308170027702445, 149.1244413093468, 590],
+  "rotation": [90, 0, 0],
+  "scale": [1,1,1],
+  "type": "landmark"
+},{
+  "name": "Canberra surroundings 2",
+  "url": "https://140444485-548498493367222598.preview.editmysite.com/uploads/1/4/0/4/140444485/canberra_surroundings.glb",
+  "position": [-35.308170027702445, 149.1244413093468, 0],
+  "rotation": [90, 0, 0],
+  "scale": [0.63, 0.63, 0.63],
+  "type": "city"
+},{
+  "name": "KSFO (san fransisco)",
+  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/sfo2.glb",
+  "position": [37.617726369601336, -122.38430351504398, -8],
+  "rotation": [90, 0, 0],
+  "scale": [0.79, 0.79, 0.79],
+  "type": "airport"
+},{
+  "name": "LAX (los angeles)",
+  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/lax.glb",
+  "position": [33.94386939469198, -118.40783485553109, 3],
+  "rotation": [90, 0, 0],
+  "scale": [0.83, 0.83, 0.83],
+  "type": "airport"
+},{
+  "name": "CDG (charles de gaulle paris)",
+  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/cdg3.glb",
+  "position": [49.008293407258684, 2.5532626433579013, 40],
+  "rotation": [90, 0, 0],
+  "scale": [0.65, 0.65, 0.65],
+  "type": "airport"
+},{
+  "name": "hollywood sign",
+  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/hollywood_sign.glb",
+  "position": [34.13475904045216, -118.32040314329417, 170],
+  "rotation": [90, 0, 0],
+  "scale": [0.65, 0.65, 0.65],
+  "type": "landmark"
+},{
+  "name": "starbase",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/starbase0.glb",
+  "position": [25.996018195282943, -97.15440103944368, 0],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
+},{
+  "name": "Burj Khalifa",
+  "credit": "From:farhad.Guli - find at:https://sketchfab.com/3d-models/burj-khalifa-dubai-f8ec435f7f084037a6e7de3540c19173",
+  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/burj_khalifa2.glb",
+  "position": [25.197200624360008, 55.27428520250613, 0],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
+},{
+  "name": "Christ the redeemer",
+  "credit": "From:Indicate Creazilla.com - find at:https://creazilla.com/nodes/3132-christ-the-redeemer-3d-model",
+  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/christ_the_redeemer.glb",
+  "position": [-22.95190572528919, -43.210484249698546, 550],
+  "rotation": [0, 0, 0],
+  "scale": [1.5, 1.5, 1.5],
+  "type": "landmark"
+},{
+  "name": "Stonehenge",
+  "credit": "From:GSXNet - find at:https://sketchfab.com/3d-models/stonehenge-england-vr-7e7febabef2045a68755cc39c8c7c91f",
+  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/stonehenge2.glb",
+  "position": [51.17883238851334, -1.82612057163007, 94],
+  "rotation": [0, 0, 0],
+  "scale": [5, 5, 5],
+  "type": "landmark"
+},{
+  "name": "KSC VAB",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/vab.glb",
+  "position": [28.586122039564163, -80.65132994960933, 0],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
+},{
+  "name": "Colesseum",
+  "credit": "From:printable_models - find at:https://free3d.com/3d-model/colosseum-v1--937409.html",
+  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/colusseum2.glb",
+  "position": [41.89021012457387, 12.492328042976265, 35],
+  "rotation": [300, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
+},{
+  "name": "Innsbruck Airport",
+  "url": "https://120051779-870469058910829396.preview.editmysite.com/uploads/1/2/0/0/120051779/innsbrruuuk_airport.glb",
+  "position": [47.25779, 11.34941, 585.5145360185444],
+  "rotation": [90, 0, 0],
+  "scale": [0.76, 0.76, 0.76],
+  "type": "airport"
+}, {
+  "name": "London City",
+  "url": "https://raw.githubusercontent.com/TotallyRealElonMusk/Geo-FS-3D-Buildings/main/TamperMonkey/eglc2.glb",
+  "position": [51.507469, 0.045370, 3.9231506855087783],
+  "rotation": [90, 0, 0],
+  "scale": [0.63, 0.63, 0.63],
+  "type": "airport"
+}, {
+  "name": "AN-225",
+  "credit": "From:Nightshade - GeoFS Backend Repositories",
+  "url": "https://www.geo-fs.com/backend/aircraft/repository/An-225%202.0_260077_2788/Antonov%20An-225%20Mriya-%20Geo-fs.glb",
+  "position": [50.58909460661535, 30.20573861992576, 162],
+  "rotation": [30, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "addon"
+}, {
+  "name": "Whitehouse",
+  "credit": "From:Marok - find at:https://sketchfab.com/3d-models/whitehouse-optimized-30e7ce22689b4a619a02859c57202f19",
+  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/white_house.glb",
+  "position": [38.89769555468992, -77.0365141990124, 10],
+  "rotation": [90, 0, 0],
+  "scale": [5, 5, 5],
+  "type": "landmark"
+}, {
+  "name": "Notre Dame",
+  "credit": "From:Arquitecto Técnico Luis Alberto Galdames Márquez (https://sketchfab.com/arquitetotecnico) - https://sketchfab.com/3d-models/notre-dame-de-paris-88eb6d9d68774fed8c1310b6a5fc283a",
+  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/notre_dame3.glb",
+  "position": [48.852996539327876, 2.3499699559210754, 25],
+  "rotation": [30, 0, 0],
+  "scale": [4, 4, 4],
+  "type": "landmark"
+}, {
+  "name": "Millenium Dome (O2 arena)",
+  "credit": "From:Jakemartin3 - https://www.cgtrader.com/free-3d-models/exterior/exterior-public/the-o2-millennium-dome-london-315409b1f516ceebb8055c43edb51734",
+  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/millenium_dome.glb",
+  "position": [51.502934595180584, 0.00320430608296842, 3],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
+}, {
+  "name": "Chrysler building",
+  "credit": "From:printable_models - https://free3d.com/3d-model/chrysler-building-v1--516313.html",
+  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/chrysler.glb",
+  "position": [40.751622516888816, -73.97535779136162, 5],
+  "rotation": [35, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
+}, {
+  "name": "Empire state building",
+  "credit": "From:printable_models - https://free3d.com/3d-model/empire-state-building-v1--309154.html",
+  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/empire_state_building.glb",
+  "position": [40.748445386507626, -73.98565991749938, 5],
+  "rotation": [35, 0, 0],
+  "scale": [0.3, 0.3, 0.3],
+  "type": "landmark"
+}, {
+  "name": "SLC2 - Firefly Alpha",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/slc2.glb",
+  "position": [34.75563154632502, -120.6223760619216, 57],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "landmark"
+}, {
+  "name": "Bristol taxiway",
+  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/eggd_taxiway2.glb",
+  "position": [51.38498033797698, -2.7194626067148984, 180],
+  "rotation": [90, 0, 0],
+  "scale": [0.6, 0.6, 0.6],
+  "type": "airport"
+}, {
+  "name": "statue of liberty",
+  "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/statue_of_liberty2.glb",
+   "credit": "From: byGravity Jack (https://sketchfab.com/3d-models/statue-of-liberty-84094e8d5e724b5c882cf576ca12e44e)",
+  "position": [40.68992736745039, -74.04507689937424, 1],
+  "rotation": [90, 0, 0],
+  "scale": [0.6,0.6,0.6],
+  "type": "landmark"
+}]
