@@ -7,21 +7,21 @@
   "type": "airport"
 },{
   "name": "jfk terminals",
-  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/jfk.glb",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/kenned.glb",
   "position": [40.642468, -73.781306, 0],
   "rotation": [0, 0, 0],
   "scale": [1.3, 1.3, 1.3],
   "type": "airport"
 },{
   "name": "ewr terminals",
-  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/ewr.glb",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/newar.glb",
   "position": [40.692581926987394, -74.18274783202409, 0],
   "rotation": [0, 0, 0],
   "scale": [1, 1, 1],
   "type": "airport"
 },{
   "name": "lga terminals",
-  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/lga.glb",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/laguard.glb",
   "position": [40.77335297734778, -73.87365572536402, 0],
   "rotation": [0, 0, 0],
   "scale": [1, 1, 1],
