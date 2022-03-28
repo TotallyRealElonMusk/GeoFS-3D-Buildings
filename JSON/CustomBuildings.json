@@ -49,77 +49,77 @@
   "type": "city"
 }, {
   "name": "jfk atc",
-  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/jfkatc.glb",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/jfkatc.glb",
   "position": [40.642468, -73.781306, 0],
   "rotation": [0, 0, 0],
   "scale": [1, 1, 1],
   "type": "atc"
 }, {
   "name": "LAX atc",
-  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/genericatc.glb",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/genericatc.glb",
   "position": [33.944006649127665, -118.40384478693352, 0],
   "rotation": [0, 0, 0],
   "scale": [1, 1, 1],
   "type": "atc"
 },{
   "name": "LHR atc",
-  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/genericatc.glb",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/genericatc.glb",
   "position": [51.47178486314496, -0.4654623912115562, 0],
   "rotation": [0, 0, 0],
   "scale": [1, 1, 1],
   "type": "atc"
 }, {
   "name": "CDG atc",
-  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/genericatc.glb",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/genericatc.glb",
   "position": [49.003465520509174, 2.573483109426901, 0],
   "rotation": [0, 0, 0],
   "scale": [1, 1, 1],
   "type": "atc"
 }, {
   "name": "SFO atc",
-  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/genericatc.glb",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/genericatc.glb",
   "position": [37.615913114472754, -122.3838715058867, 0],
   "rotation": [0, 0, 0],
   "scale": [1, 1, 1],
   "type": "atc"
 }, {
   "name": "MIA atc",
-  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/genericatc.glb",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/genericatc.glb",
   "position": [25.797520104826276, -80.28080030099528, 0],
   "rotation": [0, 0, 0],
   "scale": [1, 1, 1],
   "type": "atc"
 }, {
   "name": "Gateway Arch",
-  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/gateway.glb",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/gateway.glb",
   "position": [38.62467160719759, -90.1849294458611, 0],
   "rotation": [0, 0, 0],
   "scale": [1, 1, 1],
   "type": "landmark"
 }, {
   "name": "opera house",
-  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/operahouse.glb",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/operahouse.glb",
   "position": [-33.85709212131164, 151.2151553844974, 0],
   "rotation": [0, 0, 0],
   "scale": [1, 1, 1],
   "type": "landmark"
 },{
   "name": "Shard",
-  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/shard_2.glb",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/shard_2.glb",
   "position": [51.50439997167663, -0.0865319044008741, 60],
   "rotation": [0, 0, 0],
   "scale": [1, 1, 1],
   "type": "landmark"
 }, {
   "name": "sears",
-  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/sears_towers.glb",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/sears_towers.glb",
   "position": [41.87888906449908, -87.63587381204945, 100],
   "rotation": [0, 0, 0],
   "scale": [1, 1, 1],
   "type": "landmark"
 }, {
   "name": "space needle",
-  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/spaceneedle.glb",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/spaceneedle.glb",
   "position": [47.62054867355818, -122.34929125332603, 0],
   "rotation": [0, 0, 0],
   "scale": [1, 1, 1],
@@ -133,7 +133,7 @@
   "type": "landmark"
 }, {
   "name": "pisa",
-  "url": "../../../../backend/aircraft/repository/3D%20buildings_267286_3670/leaning_tower_of_pisa_2.glb",
+  "url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/leaning_tower_of_pisa_2.glb",
   "position": [43.72301853292317, 10.39663055392561, 30],
   "rotation": [0, 0, 0],
   "scale": [1, 1, 1],
