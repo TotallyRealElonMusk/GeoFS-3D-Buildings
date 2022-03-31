@@ -220,7 +220,7 @@
 },{
   "name": "Canberra surroundings 2",
   "url": "https://140444485-548498493367222598.preview.editmysite.com/uploads/1/4/0/4/140444485/canberra_surroundings.glb",
-  "position": [-35.308170027702445, 149.1244413093468, 0],
+  "position": [-35.308170027702445, 149.1244413093468, 590],
   "rotation": [90, 0, 0],
   "scale": [0.63, 0.63, 0.63],
   "type": "city"
@@ -386,7 +386,7 @@
   "name": "Buckingham Palace",
   "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/buckinghampalace.glb",
    "credit": "From: Guilherme G. (https://3dwarehouse.sketchup.com/model/690cf74cd63b2edb74b6d44bd3036936/Buckingham-Palace)",
-  "position": [51.50112187600205, -0.142372416727196, 5],
+  "position": [51.50112187600205, -0.142372416727196, 15],
   "rotation": [0, 0, 0],
   "scale": [1, 1, 1],
   "type": "landmark"
