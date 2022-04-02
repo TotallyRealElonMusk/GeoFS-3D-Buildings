@@ -394,7 +394,7 @@
 	"name": "Abu Dhabi International Airport",
 	"url": "https://raw.githubusercontent.com/TotallyRealElonMusk/GeoFS-3D-Buildings/main/3D%20models/auh2.glb",
 	"position": [24.432928, 54.644539, 23],
-	"rotation": [0, 0, 0],
+	"rotation": [20, 0, 0],
 	"scale": [1, 1, 1],
 	"type": "airport",
 	"credit": "C'Indelta#0033"
