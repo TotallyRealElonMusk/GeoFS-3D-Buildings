@@ -392,7 +392,7 @@
   "type": "landmark"
 },{
   "name": "Abu Dhabi International Airport", // Required
-  "url": "Model URL", 
+  "url": "https://github.com/TotallyRealElonMusk/GeoFS-3D-Buildings/blob/main/3D%20models/auh1.glb?raw=true", 
   "position": [24.432928,54.644539, 23], 
   "rotation": [0,0,0],
   "scale": [1,1,1],
