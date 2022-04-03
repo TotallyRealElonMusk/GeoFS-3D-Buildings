@@ -7,4 +7,4 @@ You can do whatever model you want to do, as long as it exists in real life. Onc
 #### Need Assistance?
 Feel free to open an issue, and we'll be happy to help!
 
-(Join Our Discord)[http://discord.gg/djfKbctQfY]
+[Join Our Discord](http://discord.gg/djfKbctQfY)
