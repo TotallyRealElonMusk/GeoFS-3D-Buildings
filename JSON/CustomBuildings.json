@@ -386,9 +386,9 @@
 	"name": "Buckingham Palace",
 	"url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/buckinghampalace.glb",
 	"credit": "From: Guilherme G. https://3dwarehouse.sketchup.com/model/690cf74cd63b2edb74b6d44bd3036936/Buckingham-Palace",
-	"position": [51.50112187600205, -0.142372416727196, 5],
-	"rotation": [0, 0, 0],
-	"scale": [1, 1, 1],
+	"position": [51.50112187600205, -0.142372416727196, 8],
+	"rotation": [90, 0, 0],
+	"scale": [1.1, 1.1, 1.1],
 	"type": "landmark"
 }, {
 	"name": "Abu Dhabi International Airport",
