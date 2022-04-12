@@ -411,7 +411,7 @@
 	"url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/sidney_bridge.glb",
 	"credit": "From: Kayki https://3dwarehouse.sketchup.com/model/46c2b1d2300e37aa54151694bc758293/Sydney-Bridge",
 	"position": [-33.85497268785802, 151.20987460792793, 5],
-	"rotation": [0, 0, 0],
+	"rotation": [90, 0, 0],
 	"scale": [1, 1, 1],
 	"type": "landmark"
 }]
