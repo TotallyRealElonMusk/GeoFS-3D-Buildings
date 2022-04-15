@@ -90,9 +90,9 @@
 				[16.0, -77.0, 30.0]
 			]
 		],
-	                    options : {
-                        castShadows: !0,
-                        receiveShadows: !0
+	                    "options" : {
+                        "castShadows": !0,
+                        "receiveShadows": !0
                     }
 
 	},
@@ -176,9 +176,9 @@
 				[16.0, -7.0, 10.0]
 			]
 		],
-		                    options : {
-                        castShadows: !0,
-                        receiveShadows: !0
+		                    "options" : {
+                        "castShadows": !0,
+                        "receiveShadows": !0
                     }
 	},
 	{
@@ -225,9 +225,9 @@
 				[0, 330, 0]
 			]
 		],
-		                    options : {
-                        castShadows: !0,
-                        receiveShadows: !0
+		                    "options" : {
+                        "castShadows": !0,
+                        "receiveShadows": !0
                     }
 
 	}
