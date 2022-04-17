@@ -261,11 +261,18 @@
 	"type": "landmark"
 }, {
 	"name": "starbase",
-	"url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/starbase0.glb",
+	"url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/starbase1.glb",
 	"position": [25.996018195282943, -97.15440103944368, 0],
 	"rotation": [0, 0, 0],
 	"scale": [1, 1, 1],
 	"type": "landmark"
+}, {
+	"name": "starship",
+	"url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/starship.glb",
+	"position": [25.996018195282943, -97.15440103944368, 0],
+	"rotation": [0, 0, 0],
+	"scale": [1, 1, 1],
+	"type": "addon"
 }, {
 	"name": "Burj Khalifa",
 	"credit": "From:farhad.Guli - find at:https://sketchfab.com/3d-models/burj-khalifa-dubai-f8ec435f7f084037a6e7de3540c19173",
