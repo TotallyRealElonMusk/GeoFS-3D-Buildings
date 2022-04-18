@@ -133,7 +133,7 @@
 	},
 	{
 		"name": "basepadB",
-		"location": [25.99668045646748, -97.15814845585658, 0],
+		"location": [25.996676197774043,-97.158153935453,0],
 		"url": "none",
 		"collisionRadius": 400,
 		"collisionTriangles": [
