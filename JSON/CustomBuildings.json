@@ -432,8 +432,8 @@
 }, {
 	"name": "Aerium hangar",
 	"url": "https://www.geo-fs.com/backend/aircraft/repository/test_402407_3925/hangar.4.glb?kc=1611579331",
-	"position": [52.03583319, 13.74249703, 0],
+	"position": [52.03897220986826, 13.748379341697502, 0],
 	"rotation": [0, 0, 0],
-	"scale": [1, 1, 1],
+	"scale": [0.9, 0.9, 0.9],
 	"type": "landmark"
 }]
