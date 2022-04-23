@@ -115,7 +115,7 @@
 	"url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/sears_towers.glb",
 	"position": [41.87888906449908, -87.63587381204945, 100],
 	"rotation": [0, 0, 0],
-	"scale": [1, 1, 1],
+	"scale": [10, 10, 10],
 	"type": "landmark"
 }, {
 	"name": "space needle",
