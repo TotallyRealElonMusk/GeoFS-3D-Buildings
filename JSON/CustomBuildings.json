@@ -274,6 +274,13 @@
 	"scale": [1, 1, 1],
 	"type": "addon"
 }, {
+	"name": "Cargo Starship (Deimos placeholder model)",
+	"url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/cargoship.glb",
+	"position": [27.772263324738912, -83.01119150158783, 0],
+	"rotation": [0, 0, 0],
+	"scale": [1, 1, 1],
+	"type": "addon"
+}, {
 	"name": "Burj Khalifa (Dubai)",
 	"credit": "From:farhad.Guli - find at:https://sketchfab.com/3d-models/burj-khalifa-dubai-f8ec435f7f084037a6e7de3540c19173",
 	"url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/burj_khalifa2.glb",
