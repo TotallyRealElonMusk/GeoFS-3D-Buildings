@@ -1,8 +1,12 @@
 [{
-	"name": "rick cube :)",
 	"url": "https://140444485-548498493367222598.preview.editmysite.com/uploads/1/4/0/4/140444485/rick_astley_cube.glb",
 	"location": [40.642468, -73.781306, 0],
 	"rotation": [0, 0, 0],
-	"scale": [1, 1, 1],
-	"type": "airport"
+	"scale": [1, 1, 1]
+},
+{
+	"url": "https://140444485-548498493367222598.preview.editmysite.com/uploads/1/4/0/4/140444485/rick_astley_cube.glb",
+	"location": [40.642468, -73.781306, 100],
+	"rotation": [0, 0, 0],
+	"scale": [1, 1, 1]
 }]
