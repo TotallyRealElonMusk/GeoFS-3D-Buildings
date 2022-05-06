@@ -454,7 +454,7 @@
 },
 {
 	"name": "Exeter Airport (EGTE)",
-	"url": "https://raw.githubusercontent.com/TotallyRealElonMusk/GeoFS-3D-Buildings/main/EGTE_GeoFS_1_no_ground.glb",
+	"url": "https://raw.githubusercontent.com/TotallyRealElonMusk/GeoFS-3D-Buildings/main/3D%20models/EGTE_GeoFS_1_no_ground.glb",
 	"position": [50.73247778162173, -3.416814433728998, 24.6],
 	"rotation": [0, 0, 0],
 	"scale": [1, 1, 1],
