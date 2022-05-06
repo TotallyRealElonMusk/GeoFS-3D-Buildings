@@ -444,7 +444,7 @@
 	"scale": [0.9, 0.9, 0.9],
 	"type": "landmark"
 },
-, {
+{
 	"name": "Haneda International ATC tower",
 	"url": "https://raw.githubusercontent.com/TotallyRealElonMusk/GeoFS-3D-Buildings/main/3D%20models/Haneda_Tower.gltf",
 	"position": [35.551714, 139.783975, 19],
