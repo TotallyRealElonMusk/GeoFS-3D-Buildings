@@ -1,0 +1,21 @@
+[
+  {
+    "location": [
+      50.58909460661535,
+      30.20573861992576,
+      162
+    ],
+    "url": "https://www.geo-fs.com/backend/aircraft/repository/An-225%202.0_260077_2788/Antonov%20An-225%20Mriya-%20Geo-fs.glb",
+    "options": {
+      "shadows": 1
+    },
+    "htr": [
+      30,
+      0,
+      0
+    ],
+    "rotateModelOnly": true,
+    "scale": 1,
+    "type": 100
+  }
+]

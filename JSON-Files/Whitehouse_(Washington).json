@@ -1,0 +1,21 @@
+[
+  {
+    "location": [
+      38.89769555468992,
+      -77.0365141990124,
+      10
+    ],
+    "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/white_house.glb",
+    "options": {
+      "shadows": 1
+    },
+    "htr": [
+      90,
+      0,
+      0
+    ],
+    "rotateModelOnly": true,
+    "scale": 5,
+    "type": 100
+  }
+]

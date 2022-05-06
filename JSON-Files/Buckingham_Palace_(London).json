@@ -1,0 +1,21 @@
+[
+  {
+    "location": [
+      51.50093152313763,
+      -0.1427693751825587,
+      15
+    ],
+    "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/buckinghampalace.glb",
+    "options": {
+      "shadows": 1
+    },
+    "htr": [
+      90,
+      0,
+      0
+    ],
+    "rotateModelOnly": true,
+    "scale": 1.1,
+    "type": 100
+  }
+]

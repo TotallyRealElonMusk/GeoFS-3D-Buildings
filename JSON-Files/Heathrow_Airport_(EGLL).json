@@ -1,0 +1,21 @@
+[
+  {
+    "location": [
+      51.467538,
+      -0.456035,
+      20
+    ],
+    "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/heathrow2.glb",
+    "options": {
+      "shadows": 1
+    },
+    "htr": [
+      90,
+      0,
+      0
+    ],
+    "rotateModelOnly": true,
+    "scale": 0.63,
+    "type": 100
+  }
+]

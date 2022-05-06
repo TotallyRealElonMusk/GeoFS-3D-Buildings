@@ -1,0 +1,21 @@
+[
+  {
+    "location": [
+      39.87574,
+      -75.24477,
+      2
+    ],
+    "url": "https://120051779-870469058910829396.preview.editmysite.com/uploads/1/2/0/0/120051779/philly_test.glb",
+    "options": {
+      "shadows": 1
+    },
+    "htr": [
+      90,
+      0,
+      0
+    ],
+    "rotateModelOnly": true,
+    "scale": 1,
+    "type": 100
+  }
+]

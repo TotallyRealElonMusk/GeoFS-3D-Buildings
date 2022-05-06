@@ -1,0 +1,21 @@
+[
+  {
+    "location": [
+      51.17883238851334,
+      -1.82612057163007,
+      94
+    ],
+    "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/stonehenge2.glb",
+    "options": {
+      "shadows": 1
+    },
+    "htr": [
+      0,
+      0,
+      0
+    ],
+    "rotateModelOnly": true,
+    "scale": 5,
+    "type": 100
+  }
+]

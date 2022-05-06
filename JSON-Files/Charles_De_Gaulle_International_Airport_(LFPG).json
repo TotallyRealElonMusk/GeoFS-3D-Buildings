@@ -1,0 +1,21 @@
+[
+  {
+    "location": [
+      49.008293407258684,
+      2.5532626433579013,
+      40
+    ],
+    "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/cdg3.glb",
+    "options": {
+      "shadows": 1
+    },
+    "htr": [
+      90,
+      0,
+      0
+    ],
+    "rotateModelOnly": true,
+    "scale": 0.65,
+    "type": 100
+  }
+]

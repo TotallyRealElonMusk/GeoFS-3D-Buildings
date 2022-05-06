@@ -1,0 +1,21 @@
+[
+  {
+    "location": [
+      -35.308170027702445,
+      149.1244413093468,
+      590
+    ],
+    "url": "https://140444485-548498493367222598.preview.editmysite.com/uploads/1/4/0/4/140444485/parliamenthouse.glb",
+    "options": {
+      "shadows": 1
+    },
+    "htr": [
+      90,
+      0,
+      0
+    ],
+    "rotateModelOnly": true,
+    "scale": 1,
+    "type": 100
+  }
+]

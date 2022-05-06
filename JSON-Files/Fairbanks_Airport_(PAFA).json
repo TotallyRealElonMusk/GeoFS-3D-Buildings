@@ -1,0 +1,21 @@
+[
+  {
+    "location": [
+      64.81758,
+      -147.86789,
+      132.8094065404741
+    ],
+    "url": "https://120051779-870469058910829396.preview.editmysite.com/uploads/1/2/0/0/120051779/fairbanks_terminal_rotation.glb",
+    "options": {
+      "shadows": 1
+    },
+    "htr": [
+      65,
+      0,
+      0
+    ],
+    "rotateModelOnly": true,
+    "scale": 1,
+    "type": 100
+  }
+]

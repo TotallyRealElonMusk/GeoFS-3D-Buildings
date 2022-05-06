@@ -1,0 +1,21 @@
+[
+  {
+    "location": [
+      33.94386939469198,
+      -118.40783485553109,
+      3
+    ],
+    "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/lax.glb",
+    "options": {
+      "shadows": 1
+    },
+    "htr": [
+      90,
+      0,
+      0
+    ],
+    "rotateModelOnly": true,
+    "scale": 0.83,
+    "type": 100
+  }
+]

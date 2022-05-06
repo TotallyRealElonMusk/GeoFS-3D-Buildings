@@ -1,0 +1,21 @@
+[
+  {
+    "location": [
+      40.748445386507626,
+      -73.98565991749938,
+      5
+    ],
+    "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/empire_state_building.glb",
+    "options": {
+      "shadows": 1
+    },
+    "htr": [
+      35,
+      0,
+      0
+    ],
+    "rotateModelOnly": true,
+    "scale": 0.3,
+    "type": 100
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "location": [
+      -35.308170027702445,
+      149.1244413093468,
+      15
+    ],
+    "url": "https://140444485-548498493367222598.preview.editmysite.com/uploads/1/4/0/4/140444485/canberra_surroundings.glb",
+    "options": {
+      "shadows": 1
+    },
+    "htr": [
+      90,
+      0,
+      0
+    ],
+    "rotateModelOnly": true,
+    "scale": 0.63,
+    "type": 100
+  }
+]

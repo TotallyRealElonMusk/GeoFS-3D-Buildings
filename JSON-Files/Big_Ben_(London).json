@@ -1,0 +1,21 @@
+[
+  {
+    "location": [
+      51.50072163386705,
+      -0.12460950809854282,
+      10
+    ],
+    "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/bigben.glb",
+    "options": {
+      "shadows": 1
+    },
+    "htr": [
+      0,
+      0,
+      0
+    ],
+    "rotateModelOnly": true,
+    "scale": 1,
+    "type": 100
+  }
+]

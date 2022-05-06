@@ -1,0 +1,21 @@
+[
+  {
+    "location": [
+      40.68992736745039,
+      -74.04507689937424,
+      1
+    ],
+    "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/statue_of_liberty2.glb",
+    "options": {
+      "shadows": 1
+    },
+    "htr": [
+      90,
+      0,
+      0
+    ],
+    "rotateModelOnly": true,
+    "scale": 0.6,
+    "type": 100
+  }
+]

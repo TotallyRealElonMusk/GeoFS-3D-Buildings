@@ -1,0 +1,21 @@
+[
+  {
+    "location": [
+      41.89021012457387,
+      12.492328042976265,
+      35
+    ],
+    "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/colusseum2.glb",
+    "options": {
+      "shadows": 1
+    },
+    "htr": [
+      300,
+      0,
+      0
+    ],
+    "rotateModelOnly": true,
+    "scale": 1,
+    "type": 100
+  }
+]

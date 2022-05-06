@@ -1,0 +1,21 @@
+[
+  {
+    "location": [
+      52.03897220986826,
+      13.748379341697502,
+      0
+    ],
+    "url": "https://www.geo-fs.com/backend/aircraft/repository/test_402407_3925/hangar.4.glb?kc=1611579331",
+    "options": {
+      "shadows": 1
+    },
+    "htr": [
+      0,
+      0,
+      0
+    ],
+    "rotateModelOnly": true,
+    "scale": 0.9,
+    "type": 100
+  }
+]

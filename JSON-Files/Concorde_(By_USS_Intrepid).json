@@ -1,0 +1,21 @@
+[
+  {
+    "location": [
+      40.765665,
+      -74.001778,
+      4
+    ],
+    "url": "../../../../models/aircraft/premium/concorde/concorde.gltf",
+    "options": {
+      "shadows": 1
+    },
+    "htr": [
+      110,
+      0,
+      0
+    ],
+    "rotateModelOnly": true,
+    "scale": 1,
+    "type": 100
+  }
+]

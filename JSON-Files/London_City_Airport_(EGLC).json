@@ -1,0 +1,21 @@
+[
+  {
+    "location": [
+      51.507469,
+      0.04537,
+      3.9231506855087783
+    ],
+    "url": "https://raw.githubusercontent.com/TotallyRealElonMusk/Geo-FS-3D-Buildings/main/TamperMonkey/eglc2.glb",
+    "options": {
+      "shadows": 1
+    },
+    "htr": [
+      90,
+      0,
+      0
+    ],
+    "rotateModelOnly": true,
+    "scale": 0.63,
+    "type": 100
+  }
+]

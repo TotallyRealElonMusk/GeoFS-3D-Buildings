@@ -1,0 +1,21 @@
+[
+  {
+    "location": [
+      48.852996539327876,
+      2.3499699559210754,
+      25
+    ],
+    "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/notre_dame3.glb",
+    "options": {
+      "shadows": 1
+    },
+    "htr": [
+      30,
+      0,
+      0
+    ],
+    "rotateModelOnly": true,
+    "scale": 4,
+    "type": 100
+  }
+]

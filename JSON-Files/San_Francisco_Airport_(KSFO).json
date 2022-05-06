@@ -1,0 +1,21 @@
+[
+  {
+    "location": [
+      37.617726369601336,
+      -122.38430351504398,
+      -8
+    ],
+    "url": "https://140736632-121333684800455631.preview.editmysite.com/uploads/1/4/0/7/140736632/sfo2.glb",
+    "options": {
+      "shadows": 1
+    },
+    "htr": [
+      90,
+      0,
+      0
+    ],
+    "rotateModelOnly": true,
+    "scale": 0.79,
+    "type": 100
+  }
+]
