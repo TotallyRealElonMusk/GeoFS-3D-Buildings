@@ -446,7 +446,7 @@
 },
 , {
 	"name": "Haneda International ATC tower",
-	"url": "https://www.geo-fs.com/backend/aircraft/repository/test_402407_3925/hangar.4.glb?kc=1611579331",
+	"url": "https://raw.githubusercontent.com/TotallyRealElonMusk/GeoFS-3D-Buildings/main/3D%20models/Haneda_Tower.gltf",
 	"position": [35.551714, 139.783975, 19],
 	"rotation": [0, 0, 0],
 	"scale": [1, 1, 1],
