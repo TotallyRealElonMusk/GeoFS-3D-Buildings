@@ -467,4 +467,12 @@
 	"rotation": [0, 0, 0],
 	"scale": [1, 1, 1],
 	"type": "landmark"
+},
+{
+	"name": "Sydney",
+	"url": "https://raw.githubusercontent.com/TotallyRealElonMusk/GeoFS-3D-Buildings/main/3D%20models/sydney.glb",
+	"position": [-33.87041393589265, 151.20886469650665, 0],
+	"rotation": [0, 0, 0],
+	"scale": [1, 1, 1],
+	"type": "city"
 }]
