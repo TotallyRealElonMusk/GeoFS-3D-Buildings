@@ -113,7 +113,7 @@
 }, {
 	"name": "London",
 	"url": "https://raw.githubusercontent.com/TotallyRealElonMusk/GeoFS-3D-Buildings/main/3D%20models/london.glb",
-	"position": [51.50439997167663, -0.0865319044008741, 15],
+	"position": [51.50439997167663, -0.0865319044008741, 10],
 	"rotation": [0, 0, 0],
 	"scale": [1, 1, 1],
 	"type": "city"
