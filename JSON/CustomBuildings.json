@@ -463,7 +463,7 @@
 {
 	"name": "King's Cross Station (London)",
 	"url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/train_kgx.glb",
-	"position": [51.531407, -0.123296, 15],
+	"position": [51.531407, -0.123296, 25],
 	"rotation": [0, 0, 0],
 	"scale": [1, 1, 1],
 	"type": "landmark"
