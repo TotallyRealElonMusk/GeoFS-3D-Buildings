@@ -227,7 +227,7 @@
 }, {
 	"name": "Canberra",
 	"url": "https://140444485-548498493367222598.preview.editmysite.com/uploads/1/4/0/4/140444485/canberra_surroundings.glb",
-	"position": [-35.308170027702445, 149.1244413093468, 65],
+	"position": [-35.308170027702445, 149.1244413093468, 595],
 	"rotation": [90, 0, 0],
 	"scale": [0.63, 0.63, 0.63],
 	"type": "city"
