@@ -111,6 +111,13 @@
 	"scale": [1, 1, 1],
 	"type": "landmark"
 }, {
+	"name": "London",
+	"url": "https://raw.githubusercontent.com/TotallyRealElonMusk/GeoFS-3D-Buildings/main/3D%20models/london.glb",
+	"position": [51.50439997167663, -0.0865319044008741, 15],
+	"rotation": [0, 0, 0],
+	"scale": [1, 1, 1],
+	"type": "landmark"
+}, {
 	"name": "Sears Tower (Chicago)",
 	"url": "https://129066664-566439557718181686.preview.editmysite.com/uploads/1/2/9/0/129066664/sears_towers.glb",
 	"position": [41.87888906449908, -87.63587381204945, 100],
