@@ -486,7 +486,7 @@
 {
 	"name": "London Gatwick (EGKK)",
 	"url": "https://raw.githubusercontent.com/TotallyRealElonMusk/GeoFS-3D-Buildings/main/3D%20models/gatwick.glb",
-	"position": [51.15612587477654, -0.1774516689367817, 15],
+	"position": [51.15612587477654, -0.1774516689367817, 35],
 	"rotation": [0, 0, 0],
 	"scale": [1, 1, 1],
 	"type": "airport"
