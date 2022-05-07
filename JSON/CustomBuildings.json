@@ -412,7 +412,7 @@
 	"scale": [1.1, 1.1, 1.1],
 	"type": "landmark"
 }, {
-	"name": "Abu Dhabi International Airport (OMDB)",
+	"name": "Abu Dhabi International Airport (OMAA)",
 	"url": "https://raw.githubusercontent.com/TotallyRealElonMusk/GeoFS-3D-Buildings/main/3D%20models/auh_8.glb",
 	"position": [24.43285, 54.6441, 15],
 	"rotation": [20, 0, 0],
