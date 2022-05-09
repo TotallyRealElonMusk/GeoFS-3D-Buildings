@@ -10,6 +10,7 @@ List of Modelers:
 - Scepter02
 - Lachy
 - Max G
+- coolpilot11
 
 Thank you to the Sketchfab community, Free3D community, CGTrader community, Nightshade, Xavier, and all the others who provided free and amazing 3D models for use.
 
