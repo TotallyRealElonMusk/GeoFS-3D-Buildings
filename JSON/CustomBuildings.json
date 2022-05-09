@@ -495,8 +495,8 @@
 	},
 	{
 		"name": "Dubai International Airport (OMDB)",
-		"url": "https://raw.githubusercontent.com/TotallyRealElonMusk/GeoFS-3D-Buildings/main/3D%20models/dxbgeofs4.glb",
-		"position": [25.2532, 55.3595, 4.5],
+		"url": "https://raw.githubusercontent.com/TotallyRealElonMusk/GeoFS-3D-Buildings/main/3D%20models/dxbgeofs6.2.glb",
+		"position": [25.2532, 55.3595, 1.95],
 		"rotation": [120, 0, 0],
 		"scale": [1.26, 1.26, 1.26],
 		"type": "airport",
