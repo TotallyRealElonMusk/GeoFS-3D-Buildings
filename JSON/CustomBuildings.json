@@ -507,7 +507,7 @@
 		"url": "https://raw.githubusercontent.com/TotallyRealElonMusk/GeoFS-3D-Buildings/main/3D%20models/washmon.glb",
 		"position": [38.889481466382676, -77.03525095422913, 10],
 		"rotation": [0, 0, 0],
-		"scale": [100, 100, 100],
+		"scale": [1, 1, 1],
 		"type": "landmark"
 	}
 ]
