@@ -501,5 +501,13 @@
 		"scale": [1.26, 1.26, 1.26],
 		"type": "airport",
 		"credit": "C'Indelta#0033"
+	},
+ 	{
+		"name": "Washington Monument (Washington)",
+		"url": "https://raw.githubusercontent.com/TotallyRealElonMusk/GeoFS-3D-Buildings/main/3D%20models/washmon.glb",
+		"position": [38.8893768, -77.0351327, 10],
+		"rotation": [0, 0, 0],
+		"scale": [1, 1, 1],
+		"type": "landmark"
 	}
 ]
